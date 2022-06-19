@@ -1,4 +1,4 @@
-[![MasterHead](https://agmakarov.ru/greetings.gif)](https://agmakarov.ru)
+[![MasterHead](https://agmakarov.ru/greetings_small.gif)](https://agmakarov.ru)
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">Manual QA Engineer</h3>
 
