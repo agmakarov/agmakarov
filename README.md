@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agmakarov&label=Profile%20views&color=0e75b6&style=flat" alt="agmakarov" /> </p>
 <img align="right" alt="Coding" width="500" src="https://thumbs.gfycat.com/ContentAncientBlowfish.webp">
 
-- 🔭 I’m currently working on [Yandex Assesors]
+- 🔭 I’m currently working at [Yandex Assesors]
 
 - 🌱 I’m currently learning **Docker and Autotests**
 
