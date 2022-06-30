@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **admin@agmakarov.ru**
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Fun fact **192 >> 1 = 96**
 <h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="agmakarov.ru" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
